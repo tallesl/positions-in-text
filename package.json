@@ -1,0 +1,35 @@
+{
+  "author": "Talles L <talleslasmar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/tallesl/positions-in-text/issues"
+  },
+  "description": "returns the words and the index of its appearances in the given text",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.4"
+  },
+  "directories": {
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "homepage": "https://github.com/tallesl/positions-in-text",
+  "keywords": [
+    "index",
+    "location",
+    "position",
+    "text",
+    "words"
+  ],
+  "license": "Fair",
+  "main": "./lib/positions-in-text.js",
+  "name": "positions-in-text",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tallesl/positions-in-text.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
